@@ -1,0 +1,27 @@
+.App {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px 20px rgb(0 0 0 / 10%);
+  margin: 50px auto;
+  padding: 25px;
+}
+
+.countValue {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.btn {
+  width: 50%;
+  color: #fff;
+  background: #101010;
+  border-radius: 5px;
+  height: 25px;
+  margin-top: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
